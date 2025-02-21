@@ -34,7 +34,7 @@ The app will run on http://localhost:5173 (if using Vite) or http://localhost:30
 Deployment
 
 The app is deployed and accessible at:
-🔗 Live App
+🔗 [Live App](https://quiz-app-pi-mocha.vercel.app/)
 
 Technologies Used
 
